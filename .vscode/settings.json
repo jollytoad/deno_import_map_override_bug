@@ -1,0 +1,3 @@
+{
+  "deno.importMap": "./alt_import_map.json"
+}

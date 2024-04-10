@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@std/assert/fail": "./alt_fail.ts"
+  }
+}
